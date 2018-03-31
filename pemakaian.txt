@@ -1,0 +1,51 @@
+cara penggunaan sangat lah mudah 
+untuk pemakai andoid ( termux only ) cukup install packet berikut ini
+ * python3
+ * pycurl
+ * pyjson
+ packet di atas bertujuan untuk mengoptimaliskan script agar lebih work tentunya 
+
+untuk pemakai windows sama halnya dengan android dan pengguna di wajibkan install terlebih dahulu packet berikut
+ *python27 / python32
+ *pycurl
+ *mechanize
+ *dan tentu nya firefox browser web 
+
+dan terakir untuk pengguna linux tida perlu menginstall apapun karena facktor bahasa pemerograman di linux sudah sangat mendukung 
+
+
+ dan cara pemakainnya sebagai berikut 
+
+ [ cara mendapatkan ip server ]
+
+ buka terminal 
+ dan ketik : 
+ ping www.targetwebsite.com 
+
+
+
+ [ linux & android ]
+ ~$ python3 D0sL0w.py -s 127.0.0.1 ( contoh ip ) -p 80 ( contoh port ) -t bebas asalkan tidak lebih dari angka 135 
+ dan tekan enter
+
+
+ [ windows ]
+ pertama simpan file ke dir/file python yang terletak di drive c 
+ 
+ buka cmd dan ketik perintah seperti berikut
+ 
+ cd ..
+ cd c 
+ cd python27
+
+dan eksekusi 
+
+ cd D0sL0w
+ dir
+ python D0sL0w.py -s 127.0.0.1 ( contoh ip ) -p 80 ( contoh port ) -t bebas asalkan tidak lebih dari angka 135 
+ dan tekan enter
+
+
+
+INGAT headers.txt JANGAN DI HAPUS !!!!!! ATAU SCRIPT AKAN ERROR !!!!!
+INGAT ! JNAGAN DI HAPUS !
